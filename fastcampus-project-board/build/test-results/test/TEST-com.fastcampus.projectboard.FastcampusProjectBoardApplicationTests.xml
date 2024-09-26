@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fastcampus.projectboard.FastcampusProjectBoardApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-26T09:40:14" hostname="YUNYEOBIN" time="1.494">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.fastcampus.projectboard.FastcampusProjectBoardApplicationTests" time="1.494"/>
+  <system-out><![CDATA[18:40:09.858 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.fastcampus.projectboard.FastcampusProjectBoardApplicationTests]: FastcampusProjectBoardApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+18:40:10.195 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.fastcampus.projectboard.FastcampusProjectBoardApplication for test class com.fastcampus.projectboard.FastcampusProjectBoardApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-09-26T18:40:11.068+09:00  INFO 31096 --- [fastcampus-project-board] [    Test worker] p.FastcampusProjectBoardApplicationTests : Starting FastcampusProjectBoardApplicationTests using Java 17.0.9 with PID 31096 (started by fabul in C:\study\fastcampus\fastcampus-project-board\fastcampus-project-board)
+2024-09-26T18:40:11.071+09:00  INFO 31096 --- [fastcampus-project-board] [    Test worker] p.FastcampusProjectBoardApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-09-26T18:40:13.937+09:00  INFO 31096 --- [fastcampus-project-board] [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-09-26T18:40:14.026+09:00  INFO 31096 --- [fastcampus-project-board] [    Test worker] p.FastcampusProjectBoardApplicationTests : Started FastcampusProjectBoardApplicationTests in 3.422 seconds (process running for 5.839)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
